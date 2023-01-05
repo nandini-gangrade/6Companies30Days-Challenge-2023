@@ -1,4 +1,4 @@
 # #6Companies30Days-Challenge-2023 #ReviseWithArsh 
 
-.pdf files have leetcode answers
+Leetcode Answers & Approach
 Company1: Microsoft Challenege Completed✅
